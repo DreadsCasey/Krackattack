@@ -1,4 +1,4 @@
-# Key reinstallation attack against Android and Linux devices by Adam Casey-Rerhaye
+# Key reinstallation attack against Android and Linux devices
 
 ## DIPENDANCIES:
 This script must be run in Kali Linux, ensure that all the dependancies are installed 
