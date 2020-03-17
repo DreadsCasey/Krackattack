@@ -36,12 +36,12 @@ Note: If error Too many files open in system occours, run with -r option to rese
 the interface configuration. If the error still persists, then run the script without --target
 
 OPTIONS:
-```bash
+```
 -k - This will run the key reinstalltion attack
 -r - Cleans up configuration done by the script, useful in the event of a crash
 -v - Gives verbose output, this shows the pink debug message
 --vv - Gives loads of verbose output - WARNING - shows all frames send and recived, including beacons
---target - it's reccomended to use a specific target device (Mac address), if two devices connect without a target then the 			attack might not complete
+--target - it's reccomended to use a specific target device (Mac address), if two devices connect without a target then the attack might not complete
 --disable-hw - to disable hardware encryption, it might interfere with the script
 ```
 ##EXAMPLE:
