@@ -44,8 +44,8 @@ OPTIONS:
 --target - it's reccomended to use a specific target device (Mac address), if two devices connect without a target then the attack might not complete
 --disable-hw - to disable hardware encryption, it might interfere with the script
 ```
-##EXAMPLE:
-Launches the attack:
+## EXAMPLE:
+
 ```bash
 python krack-zero-key.py -k wlan0 wlan1 eduroam --target ff:ff:ff:ff:ff:ff 
 ```
