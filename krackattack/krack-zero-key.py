@@ -1,3 +1,5 @@
+ #!/usr/bin/env python2
+
 # Copyright (c) 2017, Adam Casey-Rerhaye
 #
 # This code may be distributed under the terms of the BSD license.
